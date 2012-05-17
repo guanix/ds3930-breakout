@@ -1,0 +1,45 @@
+Cmp-Mod V01 Created by CvPcb (2012-jan-04)-stable date = Thu 17 May 2012 12:47:36 PM EDT
+
+BeginCmp
+TimeStamp = /4FB52B61;
+Reference = C1;
+ValeurCmp = C;
+IdModule  = SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /4FB51EB9;
+Reference = P1;
+ValeurCmp = CONN_4;
+IdModule  = PIN_ARRAY_4x1;
+EndCmp
+
+BeginCmp
+TimeStamp = /4FB51E0D;
+Reference = P2;
+ValeurCmp = CONN_6;
+IdModule  = PIN_ARRAY-6X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /4FB51E7F;
+Reference = R1;
+ValeurCmp = 100K;
+IdModule  = SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /4FB51E9C;
+Reference = R2;
+ValeurCmp = 0R;
+IdModule  = SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /4FB51DF0;
+Reference = U1;
+ValeurCmp = DS3930;
+IdModule  = TSSOP20_PW;
+EndCmp
+
+EndListe
